@@ -1,0 +1,1 @@
+Tramite BurpSuite sono riuscito ad intercettare il traffico e manipolare i dati inseriti nella richiesta di login del sito, inserendo dei dati diversi dai dati base del login, per esempio "Giorgio" come nome e "Mastrota" come password, tramite il repeater possiamo vedere che il sito da come risposta un login error, confermando che i dati sono errati.
